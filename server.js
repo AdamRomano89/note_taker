@@ -8,11 +8,12 @@ const app = express();
 app.use(express.json());
 app.use(express.static(path.join(__dirname, '/public')));
 
+// Register The API Routes
+app.use("/api", require('./routes/apiRoutes'));
+
 // Register The Routes
 app.use("/", require('./routes/htmlRoutes'));
 
-// Register The API Routes
-app.use("/api", require('./routes/apiRoutes'));
 
 // getting the server up
 const PORT = process.env.PORT || 5500;
