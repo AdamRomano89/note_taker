@@ -12,9 +12,9 @@
 ### Live Application [Here](https://note-taker-node.herokuapp.com/)
 
 # Project Visuals :sunglasses:
-<img width="1156" alt="Screenshot" src="">
+<img width="1156" alt="Screenshot" src="images/Screen Shot 2021-10-23 at 12.11.24 PM.png">
 
-<img width="444" alt="Screenshot" src="">
+<img width="444" alt="Screenshot" src="images/Screen Shot 2021-10-23 at 12.12.44 PM.png">
 
 #### User Story 📖
 
